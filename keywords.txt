@@ -1,0 +1,19 @@
+#######################################
+# Syntax Coloring Map For Button
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+
+isActive KEYWORD2
+check KEYWORD2
+release KEYWORD2
